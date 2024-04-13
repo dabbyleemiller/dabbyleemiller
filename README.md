@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dabbyleemiller
-- 👀 I’m interested in Full-Stack Devlopment, AI, and Machine Learning
+- 👀 I’m interested in Full-Stack Development, AI, and Machine Learning
 - 🌱 I’m currently learning the finer points of HTML and CSS, as well as refining my foundation of Python and JavaScript. Very new to programming
 - 💞️ I’m looking to collaborate someday when I have something valuable to contribute
 - 📫 How to reach me - at my email dabbyleemiller@gmail.com
